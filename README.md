@@ -61,8 +61,17 @@
     * The Vine 5-star reviews had a total of 430 reviews, while 19,233 were 5-star reviews from the non-Vine program.
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-    * 
+    * 44.38% reviews within the Vine reviews program are 5-star reviews.
+    * 43.97% reviews within non-Vine program are also 5-star reviews.
+    * Also, the paid 5-star reviews only accounted for 0.2% of the entire reviews provided.
+    * And 0.73% was the overall percentage for non-Vine program customers who gave a 5-star rating.
 
+
+![](images/final_results.png)
+
+
+
+## Summary:
 
 
 
