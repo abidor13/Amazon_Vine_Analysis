@@ -13,7 +13,7 @@
 
 
 * A link to our dataset could be found below:
-* [Office Products Reviews Link]("https://amazon-officereviews.s3.amazonaws.com/amazon_reviews_us_Office_Products_v1_00.tsv.gz")
+* [Office Products Reviews Link](https://amazon-officereviews.s3.amazonaws.com/amazon_reviews_us_Office_Products_v1_00.tsv.gz)
 
 
 
