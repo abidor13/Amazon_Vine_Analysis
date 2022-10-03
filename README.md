@@ -73,5 +73,8 @@
 
 ## Summary:
 
+#### Based on the results above, there is no clear proof of any positivity bias for reviews in the Vine program. The percentage of 5-star reviews are pretty close whether the reviewer is part of the Vine program or not.
+##### Another analysis to help support this finding, is to compare the 5-star reviews within the table to the total number of reviews provided. The majority of the reviews given were from customers not in the Vine program.
+#### We can also add the 4-star reviews to our analysis, while it's not a perfect star, it's pretty close and most customers would still purchase the products with equal or higher than 4-star review.
 
 
